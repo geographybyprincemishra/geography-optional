@@ -1,0 +1,42 @@
+.LandingPage {
+    height: 100vh;
+}
+.Header {
+    height: 40px;
+    text-align: center;
+    background-color: #2f2fbe;
+    color: white;
+}
+.LogoBanner {
+    display: flex;
+    height: 75;
+    margin-top: 20px;
+}
+
+.backgroundImage {
+    background-image: url('../../icons/map.jpg');
+    background-repeat: no-repeat;
+}
+
+.MainContent {
+    display: flex;
+}
+
+.profile img {
+    height: 350px;
+    width: 300px;
+    margin: 25px 75px;
+}
+
+.WriteUp {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 50%;
+    border: 1px solid #2f2fbe;
+    color: #2f2fbe;
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-align: justify;
+    padding: 70px;
+}
