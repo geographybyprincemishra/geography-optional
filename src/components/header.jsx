@@ -31,7 +31,7 @@ const Header = () => {
 
         <div className="Marquee">
             <marquee width="500px" direction="left" height="50px">
-                Daily Update : We're Coming soon !
+                Daily Update : We're Emerging. Stay Tuned !!
             </marquee>
         </div>
 

@@ -40,3 +40,72 @@
     text-align: justify;
     padding: 70px;
 }
+
+@media only screen and (max-width: 600px) {
+    .LandingPage {
+        width: 100%;
+        overflow-x: hidden;
+    }
+    .Header {
+        height: 185px;
+    }
+    .HeaderNav {
+        flex-direction: column;
+    }
+    .LogoBanner {
+        flex-direction: column;
+    }
+    .Menu {
+        margin-left: 0;
+        display: flex;
+        flex-flow: column;
+        margin-top: 20px;
+    }
+    .MainContent {
+        flex-direction: column;
+    }
+    .actions {
+        padding: 0;
+    }
+    marquee {
+        padding-top: 25px;
+    }
+    .icons {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .icons span {
+        margin-right: 20px;
+        margin-top: 20px;
+    }
+    .Logo {
+        text-align: center;
+        justify-content: center;
+        margin: 0;
+    }
+    .LogoTitleSeparator {
+        padding-left: 20px;
+    }
+    .dropbtn {
+        padding-left: 30px;
+    }
+    .profile img {
+        margin: 25px 50px;
+    }
+    .WriteUp {
+        margin-left: 28px;
+        margin-bottom: 20px;
+        padding: 33px;
+        width: 70%;
+        text-align: left;
+    }
+    .dropdown-content {
+        margin-left: 90px;
+    }
+    .videoContainer {
+        margin-bottom: 40px;
+    }
+    iframe {
+        width: 100%;
+    }
+}
