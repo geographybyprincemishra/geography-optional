@@ -7,17 +7,17 @@ const Header = () => {
                 </a>
             </span>
             <span>
-                <a target="_blank" href="https://www.linkedin.com/in/prince-mishra-4a086822b/">
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/prince-mishra-4a086822b/">
                     <i class="fa-brands fa-linkedin fa-xl"></i>
                 </a>
             </span>
             <span>
-                <a target="_blank" href="https://t.me/PrinceGeog">
+                <a target="_blank" rel="noreferrer" href="https://t.me/PrinceGeog">
                     <i class="fa-brands fa-telegram fa-xl"></i>
                 </a>
             </span>
             <span>
-                <a target="_blank" href="https://wa.me/918851787850">
+                <a target="_blank" rel="noreferrer" href="https://wa.me/918851787850">
                     <i class="fa-brands fa-whatsapp fa-xl"></i>
                 </a>
             </span>
@@ -30,7 +30,7 @@ const Header = () => {
         </div>
 
         <div className="Marquee">
-            <marquee width="500px" direction="left" height="50px">
+            <marquee width="500px" direction="left" height="25px">
                 Daily Update : We're Emerging. Stay Tuned !!
             </marquee>
         </div>

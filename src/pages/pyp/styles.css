@@ -1,0 +1,20 @@
+.contentContainer {
+  margin: 20px 75px !important;
+}
+.MainHeading {
+  font-style: italic;
+  text-align: center;
+}
+.mainContent {
+  margin: 50px;
+  text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+  .contentContainer {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: 17px !important;
+  }
+}

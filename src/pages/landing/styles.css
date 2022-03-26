@@ -20,6 +20,7 @@
 
 .MainContent {
     display: flex;
+    padding-bottom: 30px;
 }
 
 .profile img {
@@ -29,16 +30,17 @@
 }
 
 .WriteUp {
-    justify-content: center;
-    align-items: center;
+    font-size: 16;
+    justify-content: left;
+    align-items: left;
     display: flex;
     width: 50%;
     border: 1px solid #2f2fbe;
     color: #2f2fbe;
-    font-size: 1.4rem;
+   
     font-weight: bold;
     text-align: justify;
-    padding: 70px;
+    padding: 40px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -63,6 +65,7 @@
     }
     .MainContent {
         flex-direction: column;
+        padding-bottom: 30px;
     }
     .actions {
         padding: 0;

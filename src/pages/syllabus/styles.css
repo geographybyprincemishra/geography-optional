@@ -1,0 +1,53 @@
+.contentContainer {
+    margin: 20px;
+    
+   }
+.MainHeading {
+    
+    font-style:italic;
+     text-align: left;
+}
+.mainContent {
+    margin: 50px;
+    text-align: left;
+}
+.para{
+    margin-bottom:11px;
+    font-weight: bold;
+
+}
+.paraleft{
+    margin-bottom:11px;
+    text-align: left;
+    margin-left: 60px;
+   
+
+}
+
+.spanstyle{
+    font-size:11pt
+}
+.spanline{
+    line-height:107%;
+    
+    
+}
+.spanfont{
+    font-family:Calibri,sans-serif;
+    
+}
+.spanfont22{
+    font-size:22.0pt
+}
+.spanfontsymbol{
+    font-family:Symbol
+}
+.spanfont14{
+    font-size:14.0pt;
+    margin-left: 10px;
+}
+.spanfont18{
+    font-size:18.0pt
+}
+
+

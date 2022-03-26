@@ -1,0 +1,17 @@
+.contentContainer {
+    margin: 20px;
+    text-align: left;
+        
+}
+.MainHeading {
+    
+    font-style:italic;
+     text-align: left;
+     font-family:sans-serif;
+     
+}
+.mainContent {
+    margin: 50px;
+    text-align: left;
+    
+}
