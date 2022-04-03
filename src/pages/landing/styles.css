@@ -7,6 +7,14 @@
     background-color: #2f2fbe;
     color: white;
 }
+.footer {
+    position: inherit;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: #2f2fbe;
+}
 .LogoBanner {
     display: flex;
     height: 75;

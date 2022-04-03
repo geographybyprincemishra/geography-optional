@@ -142,3 +142,7 @@
   .blueColored {
     color: #2f2fbe;
   }
+
+  .footer {
+      padding-bottom: 10px;
+  }

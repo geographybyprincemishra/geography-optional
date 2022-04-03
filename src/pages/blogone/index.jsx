@@ -13,72 +13,61 @@ const BlogPageOne = () => {
       <img src={Blogpic} align='left' flex-direction="column"  alt="Why to choose Geography as an optional?"/>
     </div> */}
      <h1 className='MainHeading'><strong>Why to choose Geography as an optional?</strong></h1>
-    <p>&nbsp; Today I will tell you 7 concrete reasons of why you must choose Geography as your optional to get your name in the final list of UPSC CSE 2023-24</p>
-    <h3>1<u><strong>.Role of Geography in overall selection</strong></u></h3>
+    <p className="color-black">Geography is a quintessential subject, that has ignited the curiosity of individuals since ancient times.</p>
+    
+    <p className="color-black">Eratosthenes defined geography as “study of earth surface as the home of man.” This description of geography makes it an all-encompassing subject. This all-encompassing aspect of geography manifests as Geo-economics, Geo-politics, Biogeography, Oceanography, Climatology, Geomorphology etc.</p>
 
-    <p>● Geography as an optional subject has the highest overlap with the entire general study syllabus and preparation</p>
+<p className="color-black">Given geography’s wide scope, Aspirants find an amazing opportunity through geography to inculcate a refined intellect, that will not only help in acing civil services examination but also helps in becoming better informed human beings.</p>
 
-<p>. ● Therefore, the scores of geography optional students are more buoyant, contributing to an extra 40-50 marks in mains as well an extra 10-20 marks in prelims.</p>
+<p className="color-black">Geography has been one of the most popular optional in the history of civil services examination and year on year a lot of individuals have secured Top100 ranks with Geography optional. But when a new student enters in the arena of UPSC preparation they face a daunting task related to optional selection as they know it very well that in whole UPSC CSE this is the only subject in which they have option to choose among the list of subjects but if this option has not been selected rationally then it can hamper the dream of aspirants to become an IAS officer.</p>
 
-<p>● As a teacher and an aspirant as well, I have realized that no other optional provides one with the breadth of knowledge or bigger coverage along with a solution oriented approach.</p>
+<p className="color-black">So, to help those aspirants who are thinking to opt Geography optional I am going to tell you following reasons why you must choose Geography as an Optional.</p>
+<h2><strong>Geography immensely helpful in Prelims Examination</strong></h2>
+    <p className="color-black">Geography optional syllabus not only helps aspirant in Geography but also in Environment, Ecology, biodiversity, Agriculture and Map marking. Recent prelims trends have shown that these topics have a lot of weightages and are very important for clearing prelims. Like in 2021, 28 questions and in 2020, 26 questions have been asked from these areas.</p>
+    <p className="color-black">Further in the past couple of years specialized questions on agriculture like Fertigation and Zero Tillage gives Geography optional students an edge. So, if we go with last five years trend then it is evident that proportion of Geography related question in prelims is around 25-30% due to which geography, environment and agriculture is becoming indispensable in Prelims</p>
+    
+    
+    <h2><strong>Role of Geography Optional in GS mains</strong></h2>
+    <p className="color-black">There is a lot of overlap between Geography optional and in all the GS-mains papers which can be understood with following point-</p>
+    <h3 className="color-black"><strong>General Studies‐I: Indian Heritage and Culture, History and Geography of the World and Society</strong></h3>
+    
+    <p className="color-black">Geography is an integral component of GS1 along with Indian Society, Culture and History. If we go with last 5 years question then it becomes clear that 90-110 marks questions are being asked from geography as some of question asked in society are directly from cultural Geography syllabus.</p>
+    <p className="color-black">Few Questions asked in 2021-GS-I</p>
+    <p className="color-black">1. Examine the uniqueness of tribal knowledge system when compared with mainstream knowledge and cultural systems</p>
+    <p className="color-black">2.Discuss the main objectives of Population Education and point out the measures to achieve them in India in detail. </p>
+    <p className="color-black">3.What are the main socio-economic implications arising out of the development of IT industries in major cities of India?</p>
+    
+    
+    <h3 className="color-black"><strong>General Studies‐ II: Governance, Constitution, Polity, Social Justice and International relations</strong></h3>
+    
+    <p className="color-black">Political geography helps students in tackling questions related to federal structure, Panchayati raj, Federalism, Development issues, Geopolitics and International relations of GS II. So, Geography Optional will help students in tackling questions related to these topics.</p>
+    <p className="color-black">Few Questions asked in 2021-GS-II</p>
+    <p className="color-black">1.Critically examine the aims and objectives of SCO. What importance does it hold for India?</p>
+    <p className="color-black">2.Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples.</p>
+    <p className="color-black">3.The newly tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnerships in the region? Discuss the strength and impact of AUKUS in the present scenario.</p>
+    
+    <h3 className="color-black"><strong>General Studies‐III: Technology, Economic Development, Bio diversity, Environment, Security and Disaster Management</strong></h3>
+    
+    <p className="color-black">Topics of Agriculture, Industry, Infrastructure, Energy and Transport directly overlaps with Geography Optional Paper 2 and Environment, Biodiversity, climate change and Disaster Management is core part of geography and these topics can be covered from Optional Paper 2. Geography Optional students can score very high marks in GS-III with the help of data, fact, information and case studies learnt in Optional Paper 2.</p>
+    <p className="color-black">Few Questions asked in 2021-GS-III</p>
+    <p className="color-black">1.How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small farmers? </p>
+    <p className="color-black">2.How and to what extent would micro-irrigation help in solving India’s water crisis?</p>
+    <p className="color-black">3.Explain the purpose of the Green Grid Initiatives launched at World Leaders Summit of the COP26 UN Climate change Conference in Glasgow in November, 2021.When was this idea first floated in the International Solar Alliance(ISA)?</p>
+    
 
-<p>● This in turn results into a holistic personality which gets reflected in the final selections and interview marks of the students.</p>
-
-<p>● Now let us look at the detailed overlap and holistic coverage subject wise.</p>
-
-<h3><u><strong>2.GS 1 comprises of Geography, Indian Society, and the the entire portion of History</strong></u></h3>
-
-<p>● Over the period of the last 7 years, the consolidated questions from geography are around 50% in GS1.</p>
-
-<p>● It becomes 70% when we look at the Indian Society questions which have a big overlap with Human Geography part of Optional paper 1 and Indian Human Geography of Optional Paper 2 Eg: We usually see questions from hazards, monsoon variation, water scarcity, volcanoes, earthquakes etc which are the most common topics of geography optional.</p>
-
-<p>● So the trend analysis post 2013 shows us a higher weightage being given to environmental and geographical phenomenon which affect humans and human life across the world Eg: Climate change, Sea level Rise, Climate Justice, Climate Diplomacy, Geopolitics, Geoeconomics, Geospatial Technology, Space etc. CASE STUDY : UPSC CSE 2021 OVERLAP OF GEOGRAPHY IN GS 1 2021 2020 2019 TOTAL 185 175 175 GEOGRAPHY 115 100 90 HUMAN GEOGRAPHY 70 75 85 OVERLAP 74% 70% 70% Visible trend in last four year shows move towards global climate related issues and hazards/ disaster management/ crisis management</p>
-
-<h3><u><strong>3.GS2 comprises of Indian Polity, Governance, Developmental Issues and International Relations</strong></u></h3>
-
-<p>● Geography covers the entire developmental issues and social justice based topics. Eg: Poverty, Hunger,</p>
-
-<p>● It overlaps with polity in federal structure, Panchayati raj, Federalism, Development issues to name a few ● The case studies of Geography along with spatial and temporal approach of geography helps to get better scores in GS1</p>
-
-<p>● This is due to a solution oriented approach to answers and enriched content. CASE STUDY: 2021 GS2 115 MARKS FROM GEOGRAPHY OPTIONAL Sustainable Development: extensive coverage in economic geography, human development, environmental geography Q6. &ldquo;Besides being a moral imperative of the Welfare State, primary health structure is a necessary precondition for sustainable development.&rdquo; Analyze. (Answer in 150 words) 10 Skill Development: Capability Approach of Amartya Sen to Population Skilling in Population Geography Q7. &ldquo;&lsquo;Earn while you learn&rsquo; scheme needs to be strengthened to make vocational education and skill training meaningful.&rdquo; Comment. (Answer in 150 words) 10 Inequality, Disparity, Poverty etc are widely discussed topics of Human Geography in both papers Q8. Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples. (Answer in 150 words) 10 Geopolitics Q10. &ldquo;The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union.&rdquo; Explain. (Answer in 150 words) 10 Human Geography Q16. Has digital illiteracy, particularly in rural areas, coupled with lack of Information and Communication Technology(ICT) accessibility hindered socio-economic development? Examine with justification. (Answer in 250 words) 15 Women Development, Inclusive Development, Gender based debates widely covered in Human Geography Q17. &ldquo;Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal.&rdquo; Apart from women education and women empowerment schemes, what interventions can help change this milieu? (Answer in 250 words) 15 Answer based on Case studies and successful models of development Q18. Can Civil Society and Non-Governmental Organizations present an alternative model of public service delivery to benefit the common citizen. Discuss the challenges of this alternative model. (Answer in 250 words) 15 Geopolitics- Asia Q19. Critically examine the aims and objectives of SCO. What importance does it hold for India? (Answer in 250 words) 15 Geopolitics Indo Pacific, IOR Q20. The newly tri-nation partnership AUKUS is aimed at countering China&rsquo;s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnerships in the region? Discuss the strength and impact of AUKUS in the present scenario. (Answer in 250 words) 15 Being a generalist subject, geography has very high overlaps in gs when compared with other optionals</p>
-
-<h3><u><strong>4. GS3: Highest overlap with almost the entire paper being covered in Economic Geography, Human Geography, and Contemporary Issues</strong></u></h3>
-
-<p>● From Infrastructure based questions on Ports, Coastal Development to Inclusive Development, Green Energy, Clean Energy, Alternate Energy GS3 has probably the highest overlap with Optional Paper 2</p>
-
-<p>● Therefore most of the students can easily go for an integrated preparation of GS 3 and Geography</p>
-
-<p>● The answer quality is also higher when compared to others due to the enriched content and interlinked topics of Geography and GS3.</p>
-
-<p>● This has lead to all geography optional students performing brilliantly in GS3 over the years 5. Geography has been a favorite subject for the science students</p>
-
-<p>● It is no secret that geography has been the most favorite of Doctors, Engineers and Science graduates</p>
-
-<p>● The logical and practical approach of geography makes it a natural favorite for students of scientific bent</p>
-
-<p>● The focus on conceptual understanding and conceptual clarity decreases the bulk of rote learning and works more on application rather than mere reproduction of facts.</p>
-
-<p>● The use of maps, vialization, data and diagrams also helps in overall answer writing and getting superior scores.</p>
-
-<h3><u><strong>6. Highest number of students who write mains are from geography year after year</strong></u></h3>
-
-<p>● This proves the higher coverage, result as well as the appeal of the subject</p>
-
-<p>● Geography is therefore the favorite of students who have very less exposure to arts based subject or are coming to UPSC preparation after a graduation in Sciences, Engineering or Medicine</p>
-
-<h3><u><strong>7. Improved answer writing</strong></u></h3>
-
-<p>● Answer writing is the most ignored aspect in UPSC preparation, however it plays the most fundamental role in getting the final selection and one&rsquo; name in the final list</p>
-
-<p>● We often see that special classes are conducted for answer writing.</p>
-
-<p>● However, in case of geography students, the art of note making as well as crisp and concise answer writing comes naturally in the first half of the preparation itself.</p>
-
-<p>● A geography student is naturally inclined to create enriched notes and practice answer writing during note making and the classroom program itself.</p>
-
-<p>● With a habit of drawing maps, diagrams, flowcharts, data visualization etc the learning curve is swift.</p>
-
-<p><strong><em>Thank You all for being patient with me and we can further take up some of your individual doubts and questions.</em></strong></p>
+    <h2><strong>Role of Geography in Personality Test</strong></h2>
+    <p className="color-black">Various Global issues like climate change, climate finance, Climate Governance, Global biodiversity loss, Plastic Pollution, Geopolitics etc. are regularly being discussed in Interview. Geography Optional students gets in depth information on these topics which helps them in developing perspective to provide wholistic solution for this global issue which will give them an added advantage in personality Test. </p>
+    
+    <h2><strong>Geography favors both Science and Arts background students</strong></h2>
+    <p className="color-black">It is no secret that geography has been the most favorite optional among Doctors, Engineers and Science graduates as the logical and practical approach of Physical geography makes it a natural favorite for students of science background. On the other hand, Human Geography requires perspectives and diverse ideas which gives humanity background students an edge. Also, the availability of tools like maps, diagram, flow chart gives students chance to score high and also minimizes the bulk of rote learning.</p>
+    
+    <h2><strong>What UPSC report says about Geography Optional</strong></h2>
+    <p className="color-black">According to the UPSC annual report 2020-21, In 2019 ,1916 students appeared in mains with geography as an optional out of which 105 have been recommended for final selection. As per UPSC report </p>
+    <p className="color-black"><b>“Geography was the most preferred subject among the optional subjects</b> chosen by the candidates, <b>followed by</b> Political Science & International Relations and Sociology.”</p>
+    <p className="color-black"> This makes Geography a very important optional in the UPSC ecosystem. Also availability of good material, books, guidance and elaborate syllabus makes Geography an easy to handle optional . </p>
+    <p className="color-black">So, all in all given the positives of geography as an optional, it is imperative that Aspirants choose geography as an optional and undertake a thorough study of it to maximize their marks in both General Studies and Optional in order to get a good rank and fulfill their dream of becoming an IAS officer.</p>
+    
+    
 <Link align='right' to='/blog'> See less</Link>
 
 

@@ -1,7 +1,7 @@
 import {Link} from 'react-router-dom';
 import './styles.css';
 const OptionalSyllabusPage = () => {
-    return <div className='contentContainer'>
+    return <div className='contentContainerOptionalSyllabus'>
   
        {/* <p className='para'><span className='spanstyle' ><span className='spanline' ><span className='spanfont'><span className='spanfont22'><span className='spanline' >Geography Optional Syllabus</span></span></span></span></span></p> */}
       {/* <p classname='paraleft'><span className='spanstyle'><span className='spanline' ><span className='spanfont'><span className='spanfont20'><span className='spanline' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PAPER I: PRINCIPLES OF GEOGRAPHY </span></span></span></span></span></p> */}
@@ -64,7 +64,7 @@ const OptionalSyllabusPage = () => {
 <p align="left">Geographical basis of Indian federalism; State reorganisation; Emergence of new states; Regional consciousness and inter-state issues; International boundary of India and related issues; Cross-border terrorism; India’s role in world affairs; Geopolitics of South Asia and Indian Ocean realm.  </p>
 <h4 align="left">10. Contemporary Issues  : </h4>
 <p align="left">Ecological issues: Environmental hazards: landslides, earthquakes, Tsunamis, floods and droughts, epidemics; Issues related to environmental pollution; Changes in patterns of land use; Principles of environmental impact assessment and environmental management; Population explosion and food security; Environmental degradation; Deforestation, desertification and soil erosion; Problems of agrarian and industrial unrest; Regional disparities in economic development; Concept of sustainable growth and development; Environmental awareness; Linkage of rivers; Globalisation and Indian economy.  </p>
-<p align="left"><b>Note:</b> Candidates will be required to answer one compulsory map question pertinent to subjects covered by this paper. </p>
+<p align="left" ><b><span className='note'>Note:</span></b> Candidates will be required to answer one compulsory map question pertinent to subjects covered by this paper. </p>
 {/* <p className='paraleft'><span className='spanstyle' ><span className='spanline' ><span className='spanfont'><span className='spanfont18'><span className='spanline' >Note:</span></span>: <span className='spanfont14'><span className='spanline' > Candidates will be required to answer one compulsory map question pertinent to subjects covered by this paper.</span></span> </span></span></span></p> */}
      </div>
  

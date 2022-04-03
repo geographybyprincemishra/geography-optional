@@ -22,7 +22,7 @@ const SyllabusPage = () => {
         <span className="spanstyle">
           <span className="spanline">
             <span className="spanfont">
-            <span className="spanfont14">
+              <span className="spanfont14">
                 <span className="spanline">
                   <span className="spanfontsymbol">&middot;</span>
                 </span>
@@ -167,7 +167,7 @@ const SyllabusPage = () => {
         <span className="spanstyle">
           <span className="spanline">
             <span className="spanfont">
-            <span className="spanfont14">
+              <span className="spanfont14">
                 <span className="spanline">
                   <span className="spanfontsymbol">&middot;</span>
                 </span>
@@ -283,7 +283,7 @@ const SyllabusPage = () => {
           <span className="spanline">
             <span className="spanfont">
               <span className="spanfont18">
-                <span className="spanline">Note 1</span>
+                <span className="spanline note">Note 1</span>
               </span>
               :{" "}
               <span className="spanfont14">
@@ -303,7 +303,7 @@ const SyllabusPage = () => {
           <span className="spanline">
             <span className="spanfont">
               <span className="spanfont18">
-                <span className="spanline">Note 2</span>
+                <span className="spanline note">Note 2</span>
               </span>
               :{" "}
               <span className="spanfont14">
@@ -321,7 +321,7 @@ const SyllabusPage = () => {
           <span className="spanline">
             <span className="spanfont">
               <span className="spanfont18">
-                <span className="spanline">Note 3</span>
+                <span className="spanline note">Note 3</span>
               </span>
               :{" "}
               <span className="spanfont14">

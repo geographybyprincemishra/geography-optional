@@ -7,7 +7,7 @@ import './styles.css';
 
 
 const PAPERII2021 = () => {
-    return <div className='contentContainer'>
+    return <div className='contentContainerPaper'>
   
   {/* <div className='blogpic'>
       <img src={Blogpic} align='left' alt="Why to choose Geography as an optional?"/>

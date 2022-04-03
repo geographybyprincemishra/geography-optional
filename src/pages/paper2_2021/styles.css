@@ -1,5 +1,14 @@
-.contentContainer {
+.contentContainerPaper {
     margin: 20px;
+    text-align: left;
+        
+}
+.contentContainerPaper p {
+    color: black;
+}
+
+.contentContainerPaper ol {
+    color: black;
 }
 .MainHeading {
     

@@ -1,4 +1,5 @@
 import Header from '../../components/header';
+import Footer from '../../components/footer';
 import Logo from '../../components/logo';
 import Menu from '../../components/menu';
 import './styles.css';
@@ -38,7 +39,7 @@ function LandingPage() {
       </div>
 
       
-
+      <div>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={ <WriteUpComponent />} />
@@ -55,7 +56,11 @@ function LandingPage() {
           <Route path="contactus" element={ <ContactUsPage/> } />
                  </Routes>
       </BrowserRouter>
-
+      </div>
+      
+      <div className='footer'>
+        <Footer />
+      </div>
     </div>
   );
 }

@@ -1,6 +1,10 @@
-.contentContainer {
+.contentContainerOptionalSyllabus {
     margin: 20px;
     text-align: left;
+}
+
+.contentContainerOptionalSyllabus p {
+    color: black;
 }
 .MainHeading {
     
@@ -57,6 +61,14 @@
 
 .spanfont18{
     font-size:18.0pt
+}
+
+h1, h2, h3, h4 {
+    color: #2f2fbe;
+}
+
+.note {
+    color: #2f2fbe;
 }
 
 

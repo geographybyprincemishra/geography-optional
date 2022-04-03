@@ -1,11 +1,12 @@
-.contentContainer {
+.contentContainerPyp {
   margin: 20px 75px !important;
+  padding-bottom: 180px;
 }
 .MainHeading {
   font-style: italic;
-  text-align: center;
+  text-align: center !important;
 }
-.mainContent {
+.contentContainerPyp  .mainContent {
   margin: 50px;
   text-align: left;
 }
