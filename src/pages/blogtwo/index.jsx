@@ -82,7 +82,7 @@ Cover the Environment, Ecology, Biodiversity and Climate change related current 
      <p className="color-black">•	A good score in these test can start from 70+ in the first week and one must try to improve it to 8-10 marks every week, So after Revising and practicing one should aim to maintain 100 plus score after 30 days</p>
      <p className="color-black">•	In test along with marks also focus on your efficiency in different subjects as it will help you out to identify your strong subjects and your weak subjects.</p>
      <p className="color-black">In the end would like to remind you all that what to do and how to do is known to most of the serious students so the <b>key to success</b> is not just knowing but to follow it in true spirit. Please remember</p>
-     <p><b>“Clarity not comes from thought but action”.</b></p>
+     <p><b>“Clarity not comes from thought, but action”.</b></p>
     
      
 <Link align='right' to='/blog'> See less</Link>
